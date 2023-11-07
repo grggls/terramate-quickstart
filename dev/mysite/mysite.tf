@@ -3,7 +3,7 @@
 resource "local_file" "mysite" {
   content = <<-EOT
 <html>
-  <title>My Website</title>
+  <title>THIS IS DEV</title>
 </html>
 EOT
 

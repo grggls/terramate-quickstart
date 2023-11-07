@@ -1,5 +1,6 @@
 # file: dev/dev.tm.hcl
 
 globals {
-  env = "dev"
+  env   = "dev"
+  title = "THIS IS DEV"
 }

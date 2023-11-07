@@ -1,5 +1,5 @@
 # file: dev/mysite/stack.tm.hcl
- 
+
 stack {
   name        = "mysite"
   description = "mysite"
